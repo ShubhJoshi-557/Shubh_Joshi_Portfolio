@@ -31,7 +31,7 @@ export default function About({}: Props) {
             <h4 className='text-4xl font-semibold'>
                 A {" "}<span className='text-[#985EFF]/60'>little</span>{" "} Background
             </h4>
-            <p className='text-base'> I'm Shubh Joshi, pursuing a bachelor's in Computer Science Engineering at St Francis Institute of Technology, Mumbai. I build web apps for Fun. I’m currently learning MERN Stack. I like to play Video Games and watch Movies when I am free.</p>
+            <p className='text-base'> I&apos;m Shubh Joshi, pursuing a bachelor&apos;s in Computer Science Engineering at St Francis Institute of Technology, Mumbai. I build web apps for Fun. I&apos;m currently learning MERN Stack. I like to play Video Games and watch Movies when I am free.</p>
         </div>
     </motion.div>
   );

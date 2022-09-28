@@ -28,10 +28,8 @@ function Contact({}: Props) {
         <h3 className='absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl'>
             Contact
         </h3>
-        <div className='flex flex-col space-y-10'>
-            <h4 className='text-4xl pt-24 font-semibold text-center'>
-               <span className='decoration-[#ff5ebf]/50 underline'>Lets Connect</span>
-            </h4>
+        <div className='flex flex-col space-y-10 pt-24'>
+            
             <div className='space-y-5'>
                 <div className="flex items-center space-x-5 justify-center">
                     <PhoneIcon className='text-[#985EFF] h-7 w-7 animate-pulse'/>
